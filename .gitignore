@@ -24,7 +24,14 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
 MANIFEST
+
+# Training & Test dataset & Model Set
+*.jpg
+*.jpeg
+*.png
+*.h5
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
